@@ -1,0 +1,15 @@
+{
+  "name": "node_webscraper",
+  "version": "1.0.0",
+  "description": "Create a node module to parse a remote webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Fournier",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0"
+  }
+}
